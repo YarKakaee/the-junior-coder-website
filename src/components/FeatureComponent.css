@@ -1,0 +1,23 @@
+.feature-component-heading {
+	color: #000000;
+	font-size: 2rem;
+	margin-top: -5px;
+	margin-left: 10px;
+	font-weight: 600;
+}
+
+.feature-component-body {
+	color: #000000;
+	margin-top: 10px;
+	font-size: 1rem;
+	margin-left: 10px;
+	padding-right: 140px;
+	font-weight: 400;
+}
+
+.feature-component-container {
+	display: flex;
+	margin-right: 25px;
+	width: 500px;
+	margin-bottom: 100px;
+}

@@ -1,0 +1,311 @@
+.footer-border {
+	width: 100%;
+	background-color: #1d252c;
+	width: 0 auto;
+	height: 15px;
+}
+
+.footer-container {
+	background-color: #1d252c;
+	height: 400px;
+}
+
+.footer-left {
+	margin-top: 30px;
+	margin-left: 144px;
+	width: 350px;
+}
+
+.footer-url {
+	color: #ffffff;
+	font-size: 1.9rem;
+	font-weight: 500;
+}
+
+.footer-copyright {
+	color: #ffffff;
+	padding-top: 10px;
+	font-weight: lighter;
+	font-size: 1.1rem;
+}
+
+.footer-logo {
+	width: 100px;
+	margin-top: 50px;
+	margin-left: 70px;
+}
+
+.footer-divider {
+	background-color: #ffffff;
+	height: 300px;
+	width: 3px;
+	margin-left: 560px;
+	margin-top: -63px;
+}
+
+.footer-right {
+	margin-left: 630px;
+	margin-top: -307px;
+}
+
+.footer-list {
+	list-style: none;
+	display: flex;
+	margin-left: 90px;
+}
+
+.home-list {
+	list-style: none;
+}
+
+.footer-home {
+	font-weight: 600;
+	margin-bottom: 20px;
+}
+
+.footer-home-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.6rem;
+}
+
+.footer-login {
+	font-weight: lighter;
+	margin-bottom: 20px;
+}
+
+.footer-login-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.3rem;
+}
+
+.footer-signup {
+	font-weight: lighter;
+}
+
+.footer-signup-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.3rem;
+}
+
+.course-list {
+	list-style: none;
+}
+
+.footer-courses {
+	font-weight: 600;
+	margin-bottom: 20px;
+	margin-left: 150px;
+}
+
+.footer-courses-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.6rem;
+}
+
+.footer-python {
+	font-weight: lighter;
+	margin-left: 150px;
+	margin-bottom: 20px;
+}
+
+.footer-python-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.3rem;
+}
+
+.footer-react {
+	font-weight: lighter;
+	margin-left: 150px;
+	margin-bottom: 20px;
+}
+
+.footer-react-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.3rem;
+}
+
+.footer-rpi4 {
+	font-weight: lighter;
+	margin-left: 150px;
+	margin-bottom: 20px;
+}
+
+.footer-rpi4-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.3rem;
+}
+
+.footer-javascript {
+	font-weight: lighter;
+	margin-left: 150px;
+	margin-bottom: 20px;
+}
+
+.footer-javascript-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.3rem;
+}
+
+.footer-scratch {
+	font-weight: lighter;
+	margin-left: 150px;
+	margin-bottom: 20px;
+}
+
+.footer-scratch-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.3rem;
+}
+
+.tutorial-list {
+	list-style: none;
+}
+
+.footer-tutorial {
+	font-weight: 600;
+	margin-bottom: 20px;
+	margin-left: 150px;
+}
+
+.footer-tutorial-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.6rem;
+}
+
+.footer-contact {
+	font-weight: lighter;
+	margin-left: 150px;
+	margin-bottom: 20px;
+}
+
+.footer-contact-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.3rem;
+}
+
+.footer-faq {
+	font-weight: lighter;
+	margin-left: 150px;
+	margin-bottom: 20px;
+}
+
+.footer-faq-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.3rem;
+}
+
+.footer-about {
+	font-weight: lighter;
+	margin-left: 150px;
+	margin-bottom: 20px;
+}
+
+.footer-about-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.3rem;
+}
+
+.footer-features {
+	font-weight: lighter;
+	margin-left: 150px;
+	margin-bottom: 20px;
+}
+
+.footer-features-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.3rem;
+}
+
+.docs-list {
+	list-style: none;
+}
+
+.footer-docs {
+	font-weight: 600;
+	margin-bottom: 20px;
+	margin-left: 150px;
+}
+
+.footer-docs-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.6rem;
+}
+
+.follow-list {
+	list-style: none;
+}
+
+.footer-follow {
+	font-weight: 600;
+	margin-bottom: 20px;
+	margin-left: 150px;
+}
+
+.footer-follow-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.6rem;
+}
+
+.footer-youtube {
+	font-weight: lighter;
+	margin-left: 150px;
+	margin-bottom: 20px;
+}
+
+.footer-youtube-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.3rem;
+}
+
+.footer-facebook {
+	font-weight: lighter;
+	margin-left: 150px;
+	margin-bottom: 20px;
+}
+
+.footer-facebook-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.3rem;
+}
+
+.footer-instagram {
+	font-weight: lighter;
+	margin-left: 150px;
+	margin-bottom: 20px;
+}
+
+.footer-instagram-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.3rem;
+}
+
+.footer-twitter {
+	font-weight: lighter;
+	margin-left: 150px;
+	margin-bottom: 20px;
+}
+
+.footer-twitter-link {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.3rem;
+}

@@ -1,0 +1,23 @@
+.not-found-container {
+	text-align: center;
+	background-color: #192f3c;
+	height: 937.4px;
+}
+
+.not-found-image {
+	display: flex;
+	margin: 0px auto;
+	padding-top: 120px;
+	width: 40%;
+}
+
+.not-found-heading {
+	color: #ffffff;
+	text-align: center;
+	font-size: 2.5rem;
+	margin-top: -10px;
+}
+
+.not-found-button-container {
+	margin-top: 50px;
+}

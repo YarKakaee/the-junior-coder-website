@@ -1,0 +1,169 @@
+.btn {
+	outline: none;
+	border: none;
+	cursor: pointer;
+}
+
+.btn-normal {
+	font-size: 20px;
+	font-family: Segeo Ui SemiBold;
+	background-color: #ffffff;
+	color: #242424;
+	padding: 8px 20px;
+	border: 2px solid #ffffff;
+	border-radius: 5px;
+}
+
+.btn-normal:hover {
+	background-color: #dadada;
+	border: 2px solid #dadada;
+}
+
+.btn-outline {
+	font-size: 20px;
+	background-color: transparent;
+	color: #ffffff;
+	padding: 8px 20px;
+	border: 2px solid #ffffff;
+	border-radius: 5px;
+}
+
+.btn-outline:hover {
+	background-color: #ffffff;
+	color: #242424;
+}
+
+.btn-nav {
+	background-color: #f9d649;
+	color: #000000;
+	font-size: 20px;
+	border-radius: 100px;
+	padding: 14px 40px;
+	font-weight: 600;
+	line-height: 27px;
+}
+
+.btn-nav:hover {
+	background-color: #ccae37;
+}
+
+.btn-404 {
+	background-color: #e8513e;
+	color: #ffffff;
+	border-radius: 10px;
+	padding: 14px 28px;
+	font-size: 30px;
+	transition: ease-out 0.2s;
+	font-family: Gilroy Bold;
+	box-shadow: 2px 2px 0px 0px #f3bb59;
+}
+
+.btn-404:hover {
+	box-shadow: unset;
+	transform: translate(2px, 2px);
+}
+
+.btn-home {
+	background-color: #f9d649;
+	color: #000000;
+	font-size: 20px;
+	border-radius: 80px;
+	padding: 14px 40px;
+	font-weight: 600;
+	line-height: 27px;
+	margin-top: 50px;
+}
+
+.btn-home:hover {
+	background-color: #ccae37;
+}
+
+.btn-ad {
+	background-color: #f9d649;
+	color: #000000;
+	font-size: 18px;
+	border-radius: 80px;
+	padding: 10px 44px;
+	font-weight: 600;
+	line-height: 27px;
+	margin-top: 30px;
+}
+
+.btn-ad:hover {
+	background-color: #ccae37;
+}
+
+.btn-docad {
+	background-color: #f9d649;
+	color: #000000;
+	font-size: 19px;
+	border-radius: 5px;
+	padding: 16px 20px;
+	font-weight: 600;
+	line-height: 29px;
+	margin-top: 30px;
+	margin-left: 21px;
+	margin-right: 19px;
+	width: 277px;
+}
+
+.btn-docad:hover {
+	background-color: #1d252c;
+	color: #ffffff;
+}
+
+.btn-docad-bottom {
+	background-color: #f9d649;
+	color: #000000;
+	font-size: 19px;
+	border-radius: 5px;
+	padding: 16px 20px;
+	font-weight: 600;
+	line-height: 29px;
+	margin-top: 30px;
+	margin-left: 21px;
+	margin-right: 19px;
+	width: 150px;
+}
+
+.btn-docad-bottom:hover {
+	background-color: #1d252c;
+	color: #ffffff;
+}
+
+.btn-multiple {
+	background-color: #1d252c;
+	color: #ffffff;
+	font-size: 18px;
+	border-radius: 80px;
+	padding: 10px 44px;
+	font-weight: 600;
+	line-height: 27px;
+	margin-top: 30px;
+}
+
+.btn-multiple:hover {
+	background-color: #000000;
+}
+
+.btn-medium {
+	font-size: 25px;
+}
+
+.blue {
+	background-color: #183153;
+	color: #fff;
+	border: none;
+}
+
+.black {
+	background-color: #242424;
+	color: #ffffff;
+	border: none;
+}
+
+.primary {
+	background-color: #ffffff;
+	color: #242424;
+	border: none;
+}

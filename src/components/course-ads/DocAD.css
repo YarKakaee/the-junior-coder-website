@@ -1,0 +1,29 @@
+.docad {
+	height: 425px;
+	background-color: #d9eee1;
+}
+
+.docad-heading {
+	font-size: 50px;
+	font-weight: 700;
+	color: #000000;
+	line-height: 120px;
+	padding-top: 20px;
+	text-align: center;
+}
+
+.docad-buttons-container {
+	height: 53%;
+	width: 50%;
+	margin: auto;
+	margin-top: 15px;
+}
+
+.docad-desc {
+	font-size: 19px;
+	font-weight: 600;
+	color: #000000;
+	line-height: 29px;
+	margin-top: -10px;
+	text-align: center;
+}

@@ -1,0 +1,12 @@
+.home-container {
+	background-color: #d9eee1;
+	height: 40rem;
+	text-align: center;
+}
+
+.home-heading {
+	font-weight: 700;
+	font-size: 60px;
+	padding-top: 250px;
+	color: #000000;
+}

@@ -1,0 +1,59 @@
+.pythonad {
+	height: 32rem;
+	background-color: #d9eee1;
+}
+
+.pythonad-container {
+	display: flex;
+	margin: auto;
+	height: 100%;
+	width: 60%;
+}
+
+.pythonad-left {
+	width: 50%;
+	text-align: center;
+}
+
+.pythonad-right {
+	width: 50%;
+}
+
+.pythonad-heading {
+	font-size: 80px;
+	font-weight: 700;
+	color: #000000;
+	line-height: 120px;
+	margin-top: 110px;
+}
+
+.pythonad-desc {
+	font-size: 19px;
+	font-weight: 600;
+	color: #000000;
+	line-height: 29px;
+	margin-top: 15px;
+}
+
+.pythonad-right-container {
+	background-color: #e7e9eb;
+	height: 390px;
+	border-radius: 5px;
+	margin-top: 60px;
+	box-shadow: 1px 1px 10px 2px rgba(37, 35, 35, 0.2);
+}
+
+.pythonad-code-container {
+	width: 90%;
+	background-color: #1d1f21;
+	margin-left: 5%;
+}
+
+.pythonad-code-heading {
+	color: #000000;
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 36px;
+	padding-top: 10px;
+	margin-left: 5%;
+}

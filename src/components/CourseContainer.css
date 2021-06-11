@@ -1,0 +1,64 @@
+.python-container {
+	background-color: #f9d649;
+	width: 400px;
+	height: 400px;
+	border-radius: 20px;
+	margin-top: 70px;
+}
+
+.python-container:hover {
+	background-color: #ffffff;
+	cursor: pointer;
+}
+
+.react-container {
+	background-color: #d9eee1;
+	width: 400px;
+	height: 400px;
+	border-radius: 20px;
+	margin-top: 70px;
+	margin-left: 210px;
+}
+
+.react-container:hover {
+	background-color: #ffffff;
+	cursor: pointer;
+}
+
+.raspberry-container {
+	background-color: #d9eee1;
+	width: 400px;
+	height: 400px;
+	border-radius: 20px;
+	margin-top: 70px;
+	margin-left: 210px;
+}
+
+.raspberry-container:hover {
+	background-color: #ffffff;
+	cursor: pointer;
+}
+
+.course-image {
+	width: 400px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+
+.course-heading {
+	text-align: center;
+	color: #000000;
+	font-size: 1.7rem;
+	margin-top: 20px;
+	font-weight: 600;
+}
+
+.course-body {
+	color: #000000;
+	font-size: 1rem;
+	text-align: center;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 10px;
+	font-weight: 400;
+}

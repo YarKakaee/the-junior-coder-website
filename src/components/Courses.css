@@ -1,0 +1,16 @@
+.courses-section {
+	height: 40rem;
+}
+
+.courses-heading {
+	color: #000000;
+	text-align: center;
+	margin-top: 50px;
+	font-size: 45px;
+}
+
+.all-courses-container {
+	display: flex;
+	width: 1620px;
+	margin: 0 auto;
+}
